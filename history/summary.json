@@ -2,7 +2,7 @@
   {
     "name": "vincecima.com",
     "url": "https://www.vincecima.com",
-    "icon": "https://favicons.githubusercontent.com/www.vincecima.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.vincecima.com.ico",
     "slug": "vincecima-com",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 360,
-    "timeWeek": 169,
-    "timeMonth": 204,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 380,
+    "timeWeek": 195,
+    "timeMonth": 212,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
