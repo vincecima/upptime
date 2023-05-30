@@ -4,8 +4,8 @@
     "url": "https://www.vincecima.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vincecima.com.ico",
     "slug": "vincecima-com",
-    "status": "up",
-    "uptime": "99.21%",
+    "status": "down",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 463,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2023-05-30": 0,
       "2023-02-25": 877,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
