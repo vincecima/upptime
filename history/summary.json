@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vincecima.com.ico",
     "slug": "vincecima-com",
     "status": "up",
-    "uptime": "80.32%",
+    "uptime": "80.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.19%",
-    "time": 262,
-    "timeDay": 183,
-    "timeWeek": 188,
-    "timeMonth": 204,
+    "uptimeYear": "75.47%",
+    "time": 260,
+    "timeDay": 212,
+    "timeWeek": 193,
+    "timeMonth": 203,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2024-07-18": 795,
@@ -104,8 +104,7 @@
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
-      "2024-04-21": 1440,
-      "2024-04-20": 1440
+      "2024-04-21": 1440
     }
   }
 ]
