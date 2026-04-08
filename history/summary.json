@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vincecima.com.ico",
     "slug": "vincecima-com",
     "status": "up",
-    "uptime": "85.16%",
+    "uptime": "85.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 205,
-    "timeDay": 166,
-    "timeWeek": 151,
-    "timeMonth": 173,
-    "timeYear": 209,
+    "timeDay": 149,
+    "timeWeek": 156,
+    "timeMonth": 169,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-11-18": 141
     }
